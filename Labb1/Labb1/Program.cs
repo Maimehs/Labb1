@@ -24,7 +24,7 @@ void ReadInput()
     switch (Int32.Parse(Console.ReadLine()))
     {
         case 1:
-            Console.WriteLine("Skönt. Då slipper vi ringa och klaga på att varorna inte levereras i tid.");
+            Console.WriteLine("Skönt. Då slipper vi ringa och klaga på att varorna inte levereras i tid - igen!");
             break;
         case 2:
             Console.WriteLine("Hellre mer i lager än för lite...");
