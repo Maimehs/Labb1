@@ -34,7 +34,7 @@ void ReadInput()
             break;
         case 4:
             isRunning = false;
-            Console.WriteLine("Bra jobbat. Ses imorgon.");
+            Console.WriteLine("Bra jobbat. Ses på måndag.");
             break;
         default:
             break;
